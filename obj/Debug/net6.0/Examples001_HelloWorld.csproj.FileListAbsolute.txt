@@ -1,0 +1,15 @@
+C:\Users\spikerus93\Documents\gb praktika\Examples\Examples001_HelloWorld\bin\Debug\net6.0\Examples001_HelloWorld.exe
+C:\Users\spikerus93\Documents\gb praktika\Examples\Examples001_HelloWorld\bin\Debug\net6.0\Examples001_HelloWorld.deps.json
+C:\Users\spikerus93\Documents\gb praktika\Examples\Examples001_HelloWorld\bin\Debug\net6.0\Examples001_HelloWorld.runtimeconfig.json
+C:\Users\spikerus93\Documents\gb praktika\Examples\Examples001_HelloWorld\bin\Debug\net6.0\Examples001_HelloWorld.dll
+C:\Users\spikerus93\Documents\gb praktika\Examples\Examples001_HelloWorld\bin\Debug\net6.0\Examples001_HelloWorld.pdb
+C:\Users\spikerus93\Documents\gb praktika\Examples\Examples001_HelloWorld\obj\Debug\net6.0\Examples001_HelloWorld.csproj.AssemblyReference.cache
+C:\Users\spikerus93\Documents\gb praktika\Examples\Examples001_HelloWorld\obj\Debug\net6.0\Examples001_HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\spikerus93\Documents\gb praktika\Examples\Examples001_HelloWorld\obj\Debug\net6.0\Examples001_HelloWorld.AssemblyInfoInputs.cache
+C:\Users\spikerus93\Documents\gb praktika\Examples\Examples001_HelloWorld\obj\Debug\net6.0\Examples001_HelloWorld.AssemblyInfo.cs
+C:\Users\spikerus93\Documents\gb praktika\Examples\Examples001_HelloWorld\obj\Debug\net6.0\Examples001_HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\spikerus93\Documents\gb praktika\Examples\Examples001_HelloWorld\obj\Debug\net6.0\Examples001_HelloWorld.dll
+C:\Users\spikerus93\Documents\gb praktika\Examples\Examples001_HelloWorld\obj\Debug\net6.0\refint\Examples001_HelloWorld.dll
+C:\Users\spikerus93\Documents\gb praktika\Examples\Examples001_HelloWorld\obj\Debug\net6.0\Examples001_HelloWorld.pdb
+C:\Users\spikerus93\Documents\gb praktika\Examples\Examples001_HelloWorld\obj\Debug\net6.0\Examples001_HelloWorld.genruntimeconfig.cache
+C:\Users\spikerus93\Documents\gb praktika\Examples\Examples001_HelloWorld\obj\Debug\net6.0\ref\Examples001_HelloWorld.dll
